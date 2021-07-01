@@ -1,7 +1,5 @@
-<h1> Hi! My name is Paulo Henrique. </h1>
-
 <div>
-  <a href="https://github.com/ellen2121">
+  <a href="https://github.com/paulohenriquegama">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=paulohenriquegama&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulohenriquegama&&layout=compact&hide=shell&theme=jolly"/>
 
