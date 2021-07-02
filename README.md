@@ -1,7 +1,7 @@
-<div>
+<div align="center" >
   <a href="https://github.com/paulohenriquegama">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=paulohenriquegama&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulohenriquegama&&layout=compact&hide=shell&theme=jolly"/>
+    <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api?username=paulohenriquegama&theme=gotham&show_icons=true"/>
+    <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulohenriquegama&&layout=compact&hide=shell&theme=gotham"/>
     
 </div>
  <br>
