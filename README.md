@@ -1,5 +1,5 @@
 <div align="center" >
- <h2>Seja Bem Vindo!!</h2>
+ <h2>Seja Bem Vindo(a)!!</h2>
   <br>
   <a href="https://github.com/paulohenriquegama">
     <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api?username=paulohenriquegama&theme=gotham&show_icons=true"/>
