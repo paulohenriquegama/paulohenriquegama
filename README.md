@@ -3,6 +3,7 @@
  
  <h2>Seja Bem Vindo(a) Ao Meu Perfil!!</h2>
 </div>
+<br>
 <div>
   <a href="https://github.com/paulohenriquegama">
     <img height="180em"  align="left" src="https://github-readme-stats.vercel.app/api?username=paulohenriquegama&theme=gotham&show_icons=true"/>
