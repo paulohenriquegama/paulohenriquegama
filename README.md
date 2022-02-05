@@ -1,17 +1,18 @@
 <div align="center">
- <h1>Oi! Me chamo Paulo Henrique Gama ✝️</h1>
- 
- <h2>Seja Bem Vindo(a) Ao Meu Perfil!!</h2>
+ <h2>Olá! Me chamo Paulo Henrique Gama ✝️</h2>
 </div>
-<br>
-<div>
+
+ **Seja Bem Vindo(a) Ao Meu Perfil!!**
+ </br>
+ </br>
+ <div>
   <a href="https://github.com/paulohenriquegama">
     <img height="180em"  align="left" src="https://github-readme-stats.vercel.app/api?username=paulohenriquegama&theme=gotham&show_icons=true"/>
     <img height="180em"  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulohenriquegama&&layout=compact&hide=shell&theme=gotham"/>
-    
-</div>
- <br>
-<div  align="center"  margin-top="50em"> 
+ </div>   
+<br>
+<br>
+<div  align="center"  margin="50em"> 
   <a href="https://www.instagram.com/paulohenriquegama/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/paulohenriquegama/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
@@ -20,7 +21,6 @@
  
 </div>
  
-
   
 <div>
    <img height="100em"  align="center" src="https://onepatch.com/wp-content/uploads/2020/03/HTML_CIRCLE.gif"/>
