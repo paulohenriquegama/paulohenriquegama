@@ -1,5 +1,5 @@
 <div align="center" >
- <h1 border="none">Oi! Me chamo Paulo Henrique Gama ✝️</h1>
+ <h1>Oi! Me chamo Paulo Henrique Gama ✝️</h1>
  
  <h2>Seja Bem Vindo(a) Ao Meu Perfil!!</h2>
 
