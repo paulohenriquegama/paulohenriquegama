@@ -2,8 +2,8 @@
  <h2>Seja Bem Vindo(a)!!</h2>
   <br>
   <a href="https://github.com/paulohenriquegama">
-    <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api?username=paulohenriquegama&theme=gotham&show_icons=true"/>
-    <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulohenriquegama&&layout=compact&hide=shell&theme=gotham"/>
+    <img height="180em"  align="left" src="https://github-readme-stats.vercel.app/api?username=paulohenriquegama&theme=gotham&show_icons=true"/>
+    <img height="180em"  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulohenriquegama&&layout=compact&hide=shell&theme=gotham"/>
     
 </div>
  <br>
