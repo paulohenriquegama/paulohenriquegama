@@ -1,15 +1,15 @@
-<div align="center" >
+<div align="center">
  <h1>Oi! Me chamo Paulo Henrique Gama ✝️</h1>
  
  <h2>Seja Bem Vindo(a) Ao Meu Perfil!!</h2>
 <div>
   <a href="https://github.com/paulohenriquegama">
-    <img height="180em" width="530em"  align="left" src="https://github-readme-stats.vercel.app/api?username=paulohenriquegama&theme=gotham&show_icons=true"/>
+    <img height="180em" width="500em"  align="left" src="https://github-readme-stats.vercel.app/api?username=paulohenriquegama&theme=gotham&show_icons=true"/>
     <img height="180em"  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulohenriquegama&&layout=compact&hide=shell&theme=gotham"/>
     
 </div>
  <br>
-<div  align="center"> 
+<div  align="center"  margin-top="50em"> 
   <a href="https://www.instagram.com/paulohenriquegama/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/paulohenriquegama/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
