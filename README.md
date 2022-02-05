@@ -2,9 +2,9 @@
  <h1>Oi! Me chamo Paulo Henrique Gama ✝️</h1>
  
  <h2>Seja Bem Vindo(a) Ao Meu Perfil!!</h2>
-
+<div>
   <a href="https://github.com/paulohenriquegama">
-    <img height="180em" width="330em"  align="left" src="https://github-readme-stats.vercel.app/api?username=paulohenriquegama&theme=gotham&show_icons=true"/>
+    <img height="180em" width="530em"  align="left" src="https://github-readme-stats.vercel.app/api?username=paulohenriquegama&theme=gotham&show_icons=true"/>
     <img height="180em"  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulohenriquegama&&layout=compact&hide=shell&theme=gotham"/>
     
 </div>
